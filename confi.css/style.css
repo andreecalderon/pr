@@ -1,0 +1,130 @@
+.p3{
+    width: 1330px;
+    height: 929px;
+    border: 1px solid black;
+}
+.contenedor3{
+    margin: 0px 400px;
+    width: 500px;
+    height: 100px;
+   
+ 
+}
+.texto_lin{
+   
+
+}
+.linea2{
+    margin: 10px 0px;
+    width: 100px;
+    height: 1px;
+    background-color: red;
+    
+    display: flex;
+    justify-content: center;
+}
+.text0{
+    margin: 5px 150px;
+    font-size: 16px;
+    color:gray ;
+}.texto_0{
+    font-size: 16px;
+    color: black;
+}
+.tity{
+    margin: 10px 70px;
+    
+}
+ .recuadro7{
+    display: flex;
+align-items: center;
+   
+    width: 1280px;
+    height: 400px;
+    border: 1px solid black;
+ }
+ .firc{
+    
+    margin: 20px 40px;
+    width: 296px;
+    height: 300px;
+    border: 1px solid black;
+ }
+ .i{
+    margin: 10px 20px;
+    width: 80px;
+    height: 80px;
+ }
+ .firc h1{
+ margin: 0px 40px; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+ .firc p{
+    margin: 10px 40px;
+     color: rgb(167, 160, 160);
+
+ }
+ .k{
+    
+    color: black;
+    margin: 80px;
+ }
+ .o{
+    margin: 10px 20px;
+    width: 80px;
+    height: 80px;}
+ .firc1{
+    margin: 20px 40px;
+    width: 296px;
+    height: 300px;
+    border: 1px solid black;
+
+ }   
+ .firc1 h1{
+    margin: 0px 40px; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;
+font-weight: 200;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+ }
+ .firc1 p{
+    margin: 10px 40px;
+     color: rgb(167, 160, 160);
+
+ }
+ .frc2{
+    margin: 20px 40px;
+    width: 296px;
+    height: 300px;
+    border: 1px solid black;
+ }
+ .frc2 h1{
+    margin: 0px 40px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+ }
+ .frc2 p{
+    margin: 10px 40px;
+    color: rgb(167, 160, 160);
+
+ }
+ .i2{
+    width: 82px;
+    height: 82px;
+    margin: 10px 20px;
+ }
+ .l1{
+    margin: 0px 80px;
+ }
